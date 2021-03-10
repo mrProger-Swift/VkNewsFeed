@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-WallNewsVK/Pods-WallNewsVK-frameworks.sh
+${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework
+${BUILT_PRODUCTS_DIR}/VK-ios-sdk/VK_ios_sdk.framework
